@@ -1,0 +1,11 @@
+.grid{
+    height: 500px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.turnHighlight{
+    color: #fff;
+}

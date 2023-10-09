@@ -1,10 +1,10 @@
-  import './App.css'
-import Card from './Component/Card/Card'
+import './App.css';
+import Grid from './Component/Grid/Grid';
 
 function App() {
   return (
     <>
-    <Card player= ""/>
+      <Grid numberOfCards={9} />
     </>
   )
 }
